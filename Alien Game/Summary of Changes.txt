@@ -1,0 +1,19 @@
+Jacob Ishak-Boushaki
+Sharon Oneal
+SFWE 101
+5/3/2023
+
+The changes I made to the code provided:
+
+1. I implimented a score and displayed it
+2. I implimented a live or ship keeping counter, and displayed it using ships
+3. I implimented a count of the number of aliens killed, and displayed implimented
+
+Some other things I put in for fun:
+4. A ray gun battery mechanic, the ship may only shoot if it has enough charge
+5. A background and cosmetic changes to the icons
+6. A level keeping counter
+7. The Aliens' speed (and the ray gun recharge) increases exponentially every level
+8. A game clock that tracks how long the game has been played
+9. on-screen messages that display "ship hit" and "game over"
+10. Adjusted the arena to allow displays of the above statistics on the side of the screen
