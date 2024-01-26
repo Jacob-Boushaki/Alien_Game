@@ -6,8 +6,8 @@ to github to get into the habit.
 
 In this repository, you wil find my Alien Game, a project from Software 101
 My game won second place in the class (Thank you Sharon!), mostly due to a few feaures I
-inlcuded for fun, such as a resource meter, power-ups, and finely tuning the colors and 
-aesthetic presentation of the program as a whole.
+inlcuded for fun, such as a resource meter, a scorekeeping function, a game timer, 
+and finely tuning the colors and aesthetic presentation of the program as a whole.
 
 As with all of my projects, I can never impliment all of the features I dream to, so it is a 
 work in progress.
